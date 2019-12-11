@@ -1,7 +1,8 @@
-"# python-hadoop-merge-sort" 
+# python-hadoop-merge-sort
 
 hadoop build with Docker-compose, write in Python.
 Building reference here: https://github.com/big-data-europe/docker-hadoop
+Bash reference here: https://segmentfault.com/a/1190000018781493
 
 result: 
 ```
